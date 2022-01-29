@@ -1,0 +1,55 @@
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\bin\Debug\Serial port test.exe
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\универ\3 ctv\assembler\4\C# проект\Serial port test\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Хмурович Ненахов Последовательный порт\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+G:\Хмурович Ненахов Последовательный порт\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.exe
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\COM_WIN\C# проект\Serial port test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+E:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.exe
+E:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.GenerateResource.Cache
+F:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.exe
+F:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csprojAssemblyReference.cache
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.GenerateResource.cache
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.CoreCompileInputs.cache
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+F:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+D:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.exe
+D:\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csprojResolveAssemblyReference.cache
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+D:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.exe
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.pdb
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.exe
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\bin\Debug\Serial port test.pdb
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form1.resources
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Properties.Resources.resources
+C:\Users\Student\Desktop\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.GenerateResource.Cache
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csprojAssemblyReference.cache
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial port test.csproj.CoreCompileInputs.cache
+E:\COM_WIN\C# проект\Serial port test\obj\x86\Debug\Serial_port_test.Form2.resources
