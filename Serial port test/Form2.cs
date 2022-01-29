@@ -26,10 +26,6 @@ namespace Serial_port_test
             
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
 
  
 
@@ -45,9 +41,6 @@ namespace Serial_port_test
             }
         }
 
-        private void co_TextChanged(object sender, EventArgs e)
-        {
 
-        }
     }
 }
